@@ -15,7 +15,8 @@ Công nghệ sử dụng
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
+- Matplotlib.
+
 Kết quả
 - Xây dựng thành công mô hình dự đoán ung thư phổi bằng Random Forest.
 - Đạt độ chính xác cao trên tập dữ liệu kiểm thử.
